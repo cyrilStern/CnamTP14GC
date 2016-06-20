@@ -1,0 +1,61 @@
+{
+  "project_info": {
+    "project_number": "198307275378",
+    "project_id": "cnamtp14"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198307275378:android:4b4b1591342c3057",
+        "android_client_info": {
+          "package_name": "fr.canm.cyrilstern1.cnamtp14g"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAikzeIi9f1tn4IKfllIzE7PDr17qOETAw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198307275378:android:57bbfaea4d530fae",
+        "android_client_info": {
+          "package_name": "fr.canm.cyrilstern1.cnamtp14gc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAikzeIi9f1tn4IKfllIzE7PDr17qOETAw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
